@@ -1,2 +1,2 @@
-# Classifica-o-bin-ria-breast-cancer
+# Classificação biária breast cancer
 Inteligência Artificial que utiliza uma base de dados relacionada a cancêr de mama
